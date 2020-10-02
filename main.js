@@ -1,5 +1,5 @@
 var rows = 10;
-var cols = 60;
+var cols = 10;
 var cellSize = 20;
 var totalMineCount = 10;
 var grid;
